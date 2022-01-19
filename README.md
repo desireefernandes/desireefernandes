@@ -27,7 +27,7 @@ I love watching anime, doing sports and learning about technology.
 ### 🦋 About me 🦋
 - ✨ I’m Desiree Fernandes
 - 📍 I’m from Brazil, living in Pernambuco 🇧🇷
-- 🎓 I’m currently web developer student on Federal Institute of Education, Science and Technology of Pernambuco - IFPE
+- 🎓 I’m currently web developer student on Federal Institute of Education, Science and Technology of Pernambuco (IFPE)
 - 🤓 I love front-end and UI/UX design
 - 👩🏾‍💻 I’m currently working with freelancer digital design
 
@@ -39,8 +39,8 @@ I love watching anime, doing sports and learning about technology.
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=desireefernandes&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desireefernandes&layout=compact&langs_count=7&theme=cobalt" />
     <!-- <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=desireefernandes&theme=dark" /> -->
-    <img height="220em" src="https://github-readme-streak-stats.herokuapp.com/?user=desireefernandes&theme=dracula" />
-    <img height="220em" src="https://media0.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif?cid=ecf05e47d0ef994b13852a4209d82e5f91571e2a49663b29&rid=giphy.gif&ct=g" />
+    <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=desireefernandes&theme=dracula" />
+    <img height="190em" src="https://media0.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif?cid=ecf05e47d0ef994b13852a4209d82e5f91571e2a49663b29&rid=giphy.gif&ct=g" />
 </div>
 
 ##
@@ -87,4 +87,8 @@ I love watching anime, doing sports and learning about technology.
     <a href="https://www.behance.net/desireefernandes/" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"></a> 
     <a href="https://instagram.com/desireefernandes_" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://twitter.com/d3s1r33_/"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-</div>
+</div>  
+
+##    
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=desireefernandes&color=blueviolet&style=flat-square&label=profile+views" alt="profile vist counter" /></p>
