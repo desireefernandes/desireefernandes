@@ -38,9 +38,8 @@ I love watching anime, doing sports and learning about technology.
 ##
   
 ### 📫 How to reach me:
-  
- <div align="center">
-   <br>
+
+ <div>
   <a href = "mailto:desireefernandes00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/desireef00/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://instagram.com/desireefernandes_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
