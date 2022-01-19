@@ -20,7 +20,7 @@ I love watching anime, doing sports and learning about technology.
 
 ### 🦋 About me 🦋
 - 📍 I’m from Brazil, living in Pernambuco 🇧🇷
-- 🎓 I’m currently Systens for Internet Student on Federal Institute of Education, Science and Technology of Pernambuco - IFPE
+- 🎓 I’m currently web developer student on Federal Institute of Education, Science and Technology of Pernambuco - IFPE
 - 🤓 I’m loved front-end and design UI/UX
 - 👩🏾‍💻 I’m currently working on design digital freelancer
 
