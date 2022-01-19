@@ -18,9 +18,9 @@ I am a front-end student.
 I love watching anime, doing sports and learning about technology.
 -->
 
-### About me 🦋
+### 🦋 About me 🦋
 - 📍 I’m from Brazil, living in Pernambuco 🇧🇷
-- 🎓 I’m currently student of Systens for Internet on Federal Institute of Education, Science and Technology of Pernambuco - IFPE
+- 🎓 I’m currently Systens for Internet Student on Federal Institute of Education, Science and Technology of Pernambuco - IFPE
 - 🤓 I’m loved front-end and design UI/UX
 - 👩🏾‍💻 I’m currently working on design digital freelancer
 
@@ -37,7 +37,7 @@ I love watching anime, doing sports and learning about technology.
 
 ##
   
-### 💬 Ask me about ...
+### 📫 How to reach me:
   
  <div align="center">
    <br>
