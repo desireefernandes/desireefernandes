@@ -22,7 +22,7 @@ I love watching anime, doing sports and learning about technology.
 - 📍 I’m from Brazil, living in Pernambuco 🇧🇷
 - 🎓 I’m currently web developer student on Federal Institute of Education, Science and Technology of Pernambuco - IFPE
 - 🤓 I love front-end and design UI/UX
-- 👩🏾‍💻 I’m currently working on design digital freelancer
+<!-- - 👩🏾‍💻 I’m currently working on design digital freelancer -->
 
 ##
 
