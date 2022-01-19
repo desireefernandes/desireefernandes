@@ -32,7 +32,7 @@ I love watching anime, doing sports and learning about technology.
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=desireefernandes&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desireefernandes&layout=compact&langs_count=7&theme=cobalt" />
     <!-- <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=desireefernandes&theme=dark" /> -->
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=desireefernandes&theme=dracula" />
+    <!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=desireefernandes&theme=dracula" /> -->
 </div>
 
 ##
