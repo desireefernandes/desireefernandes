@@ -16,11 +16,13 @@ I am a front-end student.
 I love watching anime, doing sports and learning about technology.
 -->
 
-# <img src="https://media1.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif?cid=790b7611455c0b8c4d3c8cedecd153d1bb6a82f72ee1998a&rid=giphy.gif&ct=s" width="50px">Hi there 👩🏾‍💻 Welcome to my profile!
+# <img src="https://media1.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif?cid=790b7611455c0b8c4d3c8cedecd153d1bb6a82f72ee1998a&rid=giphy.gif&ct=s" width="50px">Hi there 👩🏾‍💻 Welcome to my GitHub!
 
+<!--
 <div align="center">
     <img src="https://media0.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif?cid=790b7611083e0964813fab0b57b6f4a16fbc55131d2c545b&rid=giphy.gif&ct=s" height="120em">
 </div>
+-->
 
 <img width="220em" hight="220em" alt="GIF" align="right" src="https://media2.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=790b7611b4e4bf02c9b0877b66dad62090cb95617dbba4d7&rid=giphy.gif&ct=s">
 
