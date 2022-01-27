@@ -24,7 +24,7 @@ I love watching anime, doing sports and learning about technology.
 </div>
 -->
 
-<img width="220em" hight="220em" alt="GIF" align="right" src="https://media2.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=790b7611b4e4bf02c9b0877b66dad62090cb95617dbba4d7&rid=giphy.gif&ct=s">
+<img width="240em" hight="240em" alt="GIF" align="right" src="https://media2.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=790b7611b4e4bf02c9b0877b66dad62090cb95617dbba4d7&rid=giphy.gif&ct=s">
 
 ### 🦋 About me 🦋
 - ✨ I’m Desiree Fernandes
