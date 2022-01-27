@@ -29,7 +29,7 @@ I love watching anime, doing sports and learning about technology.
 ### 🦋 About me 🦋
 - ✨ I’m Desiree Fernandes
 - 📍 I’m from Brazil, living in Pernambuco 🇧🇷
-- 🎓 I’m currently web developer student on Federal Institute of Education, Science and Technology of Pernambuco (IFPE)
+- 🎓 I’m web developer student on Federal Institute of Education, Science and Technology of Pernambuco (IFPE)
 - 🤓 I love front-end and UI/UX design
 - 👩🏾‍💻 I’m currently working with freelancer digital design
 
