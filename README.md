@@ -18,17 +18,18 @@ I love watching anime, doing sports and learning about technology.
 
 # <img src="https://media1.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif?cid=790b7611455c0b8c4d3c8cedecd153d1bb6a82f72ee1998a&rid=giphy.gif&ct=s" width="50"> Hi there 👩🏾‍💻 Welcome to my GitHub!
 
-
+<!--
 <div align="center">
     <img src="https://media0.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif?cid=790b7611083e0964813fab0b57b6f4a16fbc55131d2c545b&rid=giphy.gif&ct=s" height="80">
 </div>
-
+-->
 
 <img width="250" alt="GIF" align="right" src="https://media2.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=790b7611b4e4bf02c9b0877b66dad62090cb95617dbba4d7&rid=giphy.gif&ct=s">
 
 
 ### 🦋 About me 🦋
 - ✨ I’m Desiree Fernandes
+- 😄 My pronouns: She/Her
 - 📍 I’m from Brazil, living in Pernambuco 🇧🇷
 - 🎓 I’m web developer student on Federal Institute of Education, Science and Technology of Pernambuco (IFPE)
 - 🤓 I love front-end and UI/UX design
@@ -46,7 +47,7 @@ I love watching anime, doing sports and learning about technology.
     <!-- <img height="190" src="https://giphy.com/embed/MT5UUV1d4CXE2A37Dg"/>  -->
         
 </div>
-
+    
 ##
   
 ### ⚙️ Languages & Tools:
