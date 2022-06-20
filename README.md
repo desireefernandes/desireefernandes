@@ -15,18 +15,17 @@ Here are some ideas to get you started:
 I am a front-end student. 
 I love watching anime, doing sports and learning about technology.
 -->
-<!--
-# <img src="https://media1.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif?cid=790b7611455c0b8c4d3c8cedecd153d1bb6a82f72ee1998a&rid=giphy.gif&ct=s" width="50px"> -->
-# Hi there 👩🏾‍💻 Welcome to my GitHub!
+
+# <img src="https://media1.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif?cid=790b7611455c0b8c4d3c8cedecd153d1bb6a82f72ee1998a&rid=giphy.gif&ct=s" width="50"> Hi there 👩🏾‍💻 Welcome to my GitHub!
 
 <!--
 <div align="center">
     <img src="https://media0.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif?cid=790b7611083e0964813fab0b57b6f4a16fbc55131d2c545b&rid=giphy.gif&ct=s" height="120em">
 </div>
-
-
-<img width="20em" hight="20em" alt="GIF" align="right" src="https://media2.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=790b7611b4e4bf02c9b0877b66dad62090cb95617dbba4d7&rid=giphy.gif&ct=s">
 -->
+
+<img width="250" alt="GIF" align="right" src="https://media2.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=790b7611b4e4bf02c9b0877b66dad62090cb95617dbba4d7&rid=giphy.gif&ct=s">
+
 
 ### 🦋 About me 🦋
 - ✨ I’m Desiree Fernandes
@@ -40,11 +39,12 @@ I love watching anime, doing sports and learning about technology.
 <div align="center">
     <br>
     <a href="https://github.com/desireefernandes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=desireefernandes&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desireefernandes&layout=compact&langs_count=7&theme=cobalt" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=desireefernandes&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desireefernandes&layout=compact&langs_count=7&theme=cobalt" />
     <!-- <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=desireefernandes&theme=dark" /> -->
-    <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=desireefernandes&theme=dracula" />
-    <img height="190em" src="https://media0.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif?cid=ecf05e47d0ef994b13852a4209d82e5f91571e2a49663b29&rid=giphy.gif&ct=g" />
+    <!-- <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=desireefernandes&theme=dracula" />  -->
+    <!-- <img height="190" src="https://giphy.com/embed/MT5UUV1d4CXE2A37Dg"/>  -->
+        
 </div>
 
 ##
