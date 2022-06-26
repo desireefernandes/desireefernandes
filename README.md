@@ -91,7 +91,7 @@ I love watching anime, doing sports and learning about technology.
     <a href="https://www.linkedin.com/in/desireef00/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://www.behance.net/desireefernandes/" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"></a> 
     <a href="https://instagram.com/desireefernandes_" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://twitter.com/d3s1r33_/"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+    <a href="https://twitter.com/_dsiree/"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
 </div>  
 
 ##    
