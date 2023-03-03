@@ -93,7 +93,3 @@ I love watching anime, doing sports and learning about technology.
     <a href="https://instagram.com/desireefernandes_" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://twitter.com/_dsiree/"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
 </div>  
-
-##    
-
-<p align="left"><img src="https://komarev.com/ghpvc/?username=desireefernandes&color=blueviolet&style=flat-square&label=profile+views" alt="profile vist counter" /></p>
